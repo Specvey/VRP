@@ -353,7 +353,8 @@ public class Genetique
 		
 		// prendre 1/3
 		int j=0;
-		for(int i=0;i<taillePopulation*partMeilleurFitnessValide;i++)
+		int i=0;
+		while(i<taillePopulation*partMeilleurFitnessValide && j<taillePopulation)
 		{
 			if(individus.get(j).getIncoherences()==0)
 			{
