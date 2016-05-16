@@ -1,0 +1,13 @@
+taillePopulation : 200
+pourcentageFitnessIndividusElites : 0.8
+chanceDeMutationDeBase : 0.15
+pourcentageDiminutionChanceMutation : 0.7
+forceDeMutation : 1
+partCroisementMeilleursIndividus : 0.5
+partMeilleurFitnessValide : 0.3
+partMeilleurFitnessBiaisee : 0.4
+partMeilleurDivercite : 0.3
+cycleOptimisation : 20
+pourcentageAmeliorationFitness : 0.01
+partReinjectionIndRand : 0.9
+nombreGenerationMax : 200
