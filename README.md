@@ -1,2 +1,2 @@
 # VRP
-VRP en reprenant les travaux de Thibaut VIDAL
+Resolution of a Vehicle Routing Problem (VRP) with a genetic algorithm developed in June 2016 by Xavier Maugy and Alexandre Manchon
